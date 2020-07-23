@@ -186,7 +186,7 @@ img {
 .home__title {
   position: absolute;
   top: 4%;
-  left: 15%;
+  left: 10%;
   font-size: var(--big-font-size);
   font-weight: 1000;
   z-index: var(--z-fixed);
