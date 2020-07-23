@@ -195,7 +195,7 @@ img {
 .home__img {
   position: absolute;
   top: 10%;
-  left: 22%;
+  left: 40%;
   width: 235px;
   height: 353px;
   z-index: var(--z-tooltip);
